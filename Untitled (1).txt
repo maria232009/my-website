@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sustainable Irrigation System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sustainable Irrigation System</h1>
+        <p>Innovative Solutions for Public Parks in Puebla</p>
+    </header>
+
+    <nav>
+        <a href="#abstract">Abstract</a>
+        <a href="#present">Present Technology</a>
+        <a href="#history">History</a>
+        <a href="#future">Future Technology</a>
+        <a href="#breakthroughs">Breakthroughs</a>
+        <a href="#design">Design Process</a>
+        <a href="#consequences">Consequences</a>
+    </nav>
+
+    <section id="abstract">
+        <h2>Abstract</h2>
+        <p>After COVID, life for ecosystems changed, creating an abundance of public parks that increased outdoor life. Unfortunately, these parks rely heavily on municipal water reserves. With Puebla receiving an average of 1270 mm of rain annually, much of it goes unused. This project proposes collecting rainwater during wet seasons using a funnel integrated with solar lamps, storing it in underground tanks, and using it to irrigate public parks during dry seasons.</p>
+    </section>
+
+    <section id="present">
+        <h2>Present Technology</h2>
+        <p>Puebla boasts over 40 public parks, including notable ones like Parque de la Niñez, Parque Lineal, and Parque Ecológico. However, maintaining these parks is resource-intensive, relying on aquifers and municipal water reserves. This is costly and unsustainable, especially with the lack of rainwater harvesting systems despite Puebla receiving 1270 mm of rain annually.</p>
+        <p>The proposed system integrates rainwater collection through funnels, storing water in underground tanks. Solar-powered pumps distribute the water via drip or sprinkler systems. The funnel doubles as a solar lamp, ensuring efficient energy use and functionality even in remote locations.</p>
+    </section>
+
+    <section id="history">
+        <h2>History</h2>
+        <p>Irrigation systems date back to 6000 BCE in Mesopotamia, with canal-and-dike networks for agriculture. Ancient Egyptians utilized the Nile's flood cycles for irrigation, while Chinese and Indian civilizations developed advanced techniques. Romans revolutionized irrigation with aqueducts, and modern systems now use motorized pumps and sprinklers.</p>
+    </section>
+
+    <section id="future">
+        <h2>Future Technology</h2>
+        <p>In 10 years, the project envisions advanced rainwater harvesting systems integrated with hydrophobic funnels, automated meters, and reverse osmosis filtration. Solar-powered positive displacement pumps will ensure efficiency, expanding the system's applications to agriculture and reducing reliance on municipal water.</p>
+    </section>
+
+    <section id="breakthroughs">
+        <h2>Breakthroughs</h2>
+        <p>This technology is unprecedented in Mexico due to high costs, lack of infrastructure, and limited government support. Key breakthroughs include developing efficient rainwater recycling methods and advanced filtration systems to ensure eco-friendly water storage and usage.</p>
+    </section>
+
+    <section id="design">
+        <h2>Design Process</h2>
+        <p>Initial ideas included recycling drainage water and rooftop collection systems. However, these proved impractical. The finalized design features a funnel for rainwater collection, storage in underground tanks, and solar-powered irrigation, balancing aesthetics and functionality.</p>
+    </section>
+
+    <section id="consequences">
+        <h2>Consequences</h2>
+        <p>Positive consequences include efficient water use, supporting plant health, and reducing dependency on municipal water. However, challenges include high costs and aesthetic concerns. Despite this, the advantages significantly outweigh the drawbacks.</p>
+    </secti
+
